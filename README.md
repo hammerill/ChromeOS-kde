@@ -9,6 +9,14 @@ In this repository you'll find:
 - Plasma Desktop Themes
 - Plasma Look-and-Feel Themes
 
+## Forks' Raison d'Etre
+
+This fork will simply install the window decoration theme with the bottom border being the same color as the top and side ones:
+
+![1](../master/aurorae/ChromeOS-dark/previews/preview.png)
+
+For info, the installation of anything other than window decorations theme is disabled in the install script.
+
 ## Installation
 
 Install theme for all users
@@ -52,4 +60,4 @@ GNU GPL v3
 
 ## preview
 
-![1](../master/plasma/look-and-feel/com.github.vinceliuice.ChromeOS/contents/previews/fullscreenpreview.jpg)
+![2](../master/plasma/look-and-feel/com.github.vinceliuice.ChromeOS/contents/previews/fullscreenpreview.jpg)
